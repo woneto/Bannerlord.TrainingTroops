@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bannerlord.TrainingTroops", "Bannerlord.TrainingTroops\Bannerlord.TrainingTroops.csproj", "{D76D8584-FEAA-4B42-88F6-0FF0BDD5AEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76D8584-FEAA-4B42-88F6-0FF0BDD5AEFC}.Debug|x64.ActiveCfg = Debug|x64
+		{D76D8584-FEAA-4B42-88F6-0FF0BDD5AEFC}.Debug|x64.Build.0 = Debug|x64
+		{D76D8584-FEAA-4B42-88F6-0FF0BDD5AEFC}.Release|x64.ActiveCfg = Release|x64
+		{D76D8584-FEAA-4B42-88F6-0FF0BDD5AEFC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE58603E-D67A-4469-B3E9-8799333C3CE3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\bin\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.deps.json
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\bin\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.dll
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\bin\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.pdb
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.AssemblyInfoInputs.cache
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.AssemblyInfo.cs
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.csproj.CoreCompileInputs.cache
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.dll
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.pdb
+C:\Users\Waldir\source\repos\Bannerlord.TrainingTroops\Bannerlord.TrainingTroops\obj\x64\Debug\netstandard2.0\Bannerlord.TrainingTroops.csproj.AssemblyReference.cache
